@@ -1,5 +1,6 @@
 #!/bin/bash
 #hello world
+#tag is tagging
 # Define variables
 tag_name="$TAG_NAME"
 commit_sha="$(git rev-parse HEAD)"
